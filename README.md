@@ -10,4 +10,4 @@ Using
 
 require 'filter.php'
 
-filter(string);
+<code>filter(string);</code>
